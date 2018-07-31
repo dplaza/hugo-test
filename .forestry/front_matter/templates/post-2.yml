@@ -1,0 +1,11 @@
+---
+label: Post 2
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: titulo
+  label: Título
+  description: Ingrese el título de la publicación
+  config:
+    required: true
