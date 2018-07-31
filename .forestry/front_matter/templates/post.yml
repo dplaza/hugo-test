@@ -19,3 +19,5 @@ fields:
   label: Categorías
   name: categories
   description: Ingrese las categorías asociadas a la publicación
+pages:
+- content/posts/mi-segundo-post.md
