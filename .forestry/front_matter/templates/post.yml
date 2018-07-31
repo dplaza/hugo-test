@@ -20,4 +20,5 @@ fields:
   name: categories
   description: Ingrese las categorías asociadas a la publicación
 pages:
+- content/mi-pagina-1.md
 - content/posts/mi-segundo-post.md
