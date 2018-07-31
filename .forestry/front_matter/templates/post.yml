@@ -1,0 +1,21 @@
+---
+label: Post
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: Título
+  name: title
+  config:
+    required: true
+  description: Ingrese el título de la publicación
+- type: file
+  label: Imagen principal
+  name: main_image
+  description: Seleccione imagen principal de la publicación
+  config:
+    maxSize: '10'
+- type: tag_list
+  label: Categorías
+  name: categories
+  description: Ingrese las categorías asociadas a la publicación
